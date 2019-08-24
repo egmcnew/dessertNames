@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dessert Names</string>
+    <string name="dessertNames">Cupcake, Donut, Éclair, Froyo, Gingerbread, Honeycomb,
+        Ice Cream Sandwich, Jelly Bean, Kit Kat, Lollipop</string>
+</resources>
